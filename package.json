@@ -42,7 +42,8 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "core-js": "3"
+    "core-js": "3",
+    "push-dir": "^0.4.1"
   },
   "repository": "git+https://github.com/OlegBirykov/AHJ-1.git",
   "bugs": {
